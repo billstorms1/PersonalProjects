@@ -1,0 +1,9 @@
+C:\git\PersonalProjects\TransitTestConsole\TransitServiceLib\bin\Debug\netstandard2.0\TransitServiceLib.deps.json
+C:\git\PersonalProjects\TransitTestConsole\TransitServiceLib\bin\Debug\netstandard2.0\TransitServiceLib.dll
+C:\git\PersonalProjects\TransitTestConsole\TransitServiceLib\bin\Debug\netstandard2.0\TransitServiceLib.pdb
+C:\git\PersonalProjects\TransitTestConsole\TransitServiceLib\obj\Debug\netstandard2.0\TransitServiceLib.csprojAssemblyReference.cache
+C:\git\PersonalProjects\TransitTestConsole\TransitServiceLib\obj\Debug\netstandard2.0\TransitServiceLib.AssemblyInfoInputs.cache
+C:\git\PersonalProjects\TransitTestConsole\TransitServiceLib\obj\Debug\netstandard2.0\TransitServiceLib.AssemblyInfo.cs
+C:\git\PersonalProjects\TransitTestConsole\TransitServiceLib\obj\Debug\netstandard2.0\TransitServiceLib.csproj.CoreCompileInputs.cache
+C:\git\PersonalProjects\TransitTestConsole\TransitServiceLib\obj\Debug\netstandard2.0\TransitServiceLib.dll
+C:\git\PersonalProjects\TransitTestConsole\TransitServiceLib\obj\Debug\netstandard2.0\TransitServiceLib.pdb
