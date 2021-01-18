@@ -1,0 +1,9 @@
+C:\git\PersonalProjects\TransitTestConsole\PappyApiRpc\bin\Debug\netstandard2.0\PappyApiRpc.deps.json
+C:\git\PersonalProjects\TransitTestConsole\PappyApiRpc\bin\Debug\netstandard2.0\PappyApiRpc.dll
+C:\git\PersonalProjects\TransitTestConsole\PappyApiRpc\bin\Debug\netstandard2.0\PappyApiRpc.pdb
+C:\git\PersonalProjects\TransitTestConsole\PappyApiRpc\obj\Debug\netstandard2.0\PappyApiRpc.csprojAssemblyReference.cache
+C:\git\PersonalProjects\TransitTestConsole\PappyApiRpc\obj\Debug\netstandard2.0\PappyApiRpc.AssemblyInfoInputs.cache
+C:\git\PersonalProjects\TransitTestConsole\PappyApiRpc\obj\Debug\netstandard2.0\PappyApiRpc.AssemblyInfo.cs
+C:\git\PersonalProjects\TransitTestConsole\PappyApiRpc\obj\Debug\netstandard2.0\PappyApiRpc.csproj.CoreCompileInputs.cache
+C:\git\PersonalProjects\TransitTestConsole\PappyApiRpc\obj\Debug\netstandard2.0\PappyApiRpc.dll
+C:\git\PersonalProjects\TransitTestConsole\PappyApiRpc\obj\Debug\netstandard2.0\PappyApiRpc.pdb
